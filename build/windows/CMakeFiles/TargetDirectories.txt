@@ -1,0 +1,10 @@
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/CMakeFiles/INSTALL.dir
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/CMakeFiles/ALL_BUILD.dir
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/CMakeFiles/ZERO_CHECK.dir
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/flutter/CMakeFiles/flutter_wrapper_plugin.dir
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/flutter/CMakeFiles/flutter_wrapper_app.dir
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/flutter/CMakeFiles/flutter_assemble.dir
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/flutter/CMakeFiles/INSTALL.dir
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/CMakeFiles/ecommerce.dir
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/CMakeFiles/INSTALL.dir
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/CMakeFiles/ALL_BUILD.dir

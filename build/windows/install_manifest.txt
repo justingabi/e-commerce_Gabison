@@ -1,0 +1,16 @@
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/images/1.png
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/images/2.png
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/images/3.png
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/images/4.png
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/images/5.png
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/images/6.png
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/images/7.png
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\justin\Desktop\GabisonPrelims\2ndSem\E-Commerce-App\build\windows\CMakeFiles\ccbbca613cf4e7ce4b6e95ce77c5727e\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E2979971-517E-3028-8C46-5385DB4BCF3F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

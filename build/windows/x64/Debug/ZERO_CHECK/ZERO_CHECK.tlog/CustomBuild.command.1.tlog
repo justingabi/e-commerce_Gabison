@@ -1,0 +1,10 @@
+^C:\USERS\JUSTIN\DESKTOP\GABISONPRELIMS\2NDSEM\E-COMMERCE-APP\BUILD\WINDOWS\CMAKEFILES\2673C44680D068DB92AB83899D5B61B1\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/windows -BC:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/justin/Desktop/GabisonPrelims/2ndSem/E-Commerce-App/build/windows/ecommerce.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
